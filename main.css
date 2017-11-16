@@ -1,0 +1,28 @@
+body {
+    background-image: url(/images/tile.jpg);
+    
+}
+#textare{
+    height: 200px;
+    width: 600px;
+    background-image: url(/images/formbg.jpg);
+    top: 150px;
+    float: inherit;
+    text-align: center;
+}
+
+body.title{
+         float: left;
+    left: 50%;
+    width: auto;
+    
+    }
+.title {
+        width: 250px;
+    height: 150px;
+    box-sizing: border-box;
+    margin: 40px auto 20px auto;
+    padding: 5px;
+}
+    
+}
